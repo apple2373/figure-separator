@@ -37,7 +37,7 @@ Here is other options:
   --images IMAGES      the directory that has figures
   --model MODEL        model pb file. Default is ./data/figure-sepration-model-submitted-544.pb
   --thresh THRESH      sub-figuere detection threshold. Default is 0.5
-  --output OUTPUT      output directory ./results
+  --output OUTPUT      output directory Default is ./results
   --annotate ANNOTATE  save annotation to the image or not. 1 is yes, 0 is no. Default is 0.
   ```
 
