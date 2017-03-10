@@ -28,7 +28,7 @@ Dropbox: [https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submi
 ##I just want to separate compound figures. 
 Sure, just use this command:
 ```
-python main.py --images ~/imgs --output  annotate 1
+python main.py --images ./imgs --annotate 1
 ```
 See the results directory. You have sub-figures at `./results` . That's it! 
 
