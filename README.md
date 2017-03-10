@@ -1,6 +1,6 @@
 #Compound Figure Separator
-##[Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks](http://vision.soic.indiana.edu/figure-separator/ )
-This repository contains an implementation of compound figure separator using a covolutional neral network (CNN). 
+- [Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks](http://vision.soic.indiana.edu/figure-separator/ )
+- This repository contains an implementation of compound figure separator using a covolutional neral network (CNN). 
 
 ##Requirements
 - tensorflow 1.0  https://www.tensorflow.org 
