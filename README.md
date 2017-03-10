@@ -3,9 +3,9 @@
 This repository contains an implementation of compound figure separator using a covolutional neral network (CNN). 
 
 ##Requirements
-tensorflow 1.0  https://www.tensorflow.org
-opencv 3 http://opencv.org
-and some more packages.  
+- tensorflow 1.0  https://www.tensorflow.org 
+- opencv 3 http://opencv.org   
+If you are new, I strongly recoomend [Anaconda](https://www.continuum.io/downloads) and then install tensorflow and opencv.
 ```
 pip install tensorflow
 #pip instal tensorflow-gpu #in case you want to use GPU
@@ -30,7 +30,7 @@ Sure, just use this command:
 ```
 python main.py --images ~/imgs --output  annotate 1
 ```
-See the results directory. You have sub-figures at ./results . That's it! 
+See the results directory. You have sub-figures at `./results` . That's it! 
 
 Here is other options:
 ```
