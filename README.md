@@ -13,9 +13,15 @@ conda uninstall -c menpo opencv #in case you have opnecv2
 conda install -c menpo opencv3
 ```
 
+##Citation
+If you find this tool useful, please consider to cite: 
+```
+@article {...}
+```
+
 ##Another requirement: pretrained model
 Let's donwload the pretrained model at the `./data` directory. I uploaded onto multiple places. 
-Google Drive: [https://drive.google.com/open?id=0B046sNk0DhCDems2am5YV3NLeDQ](https://drive.google.com/open?id=0B046sNk0DhCDems2am5YV3NLeDQ)
+Google Drive: [https://drive.google.com/open?id=0B046sNk0DhCDems2am5YV3NLeDQ](https://drive.google.com/open?id=0B046sNk0DhCDems2am5YV3NLeDQ)  
 Dropbox: [https://dl.dropboxusercontent.com/content_link/QQFaBjkB4xv5wn5GiRAMAWjWqdZOmTmE5B46sfOskG66gZEl6zcmDaNaE5HM4nDl/file?dl=1](https://dl.dropboxusercontent.com/content_link/QQFaBjkB4xv5wn5GiRAMAWjWqdZOmTmE5B46sfOskG66gZEl6zcmDaNaE5HM4nDl/file?dl=1)
 
 
