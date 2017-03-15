@@ -1,8 +1,8 @@
-#Compound Figure Separator
+# Compound Figure Separator
 - [Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks](http://vision.soic.indiana.edu/figure-separator/ )
 - This repository contains an implementation of compound figure separator using a covolutional neral network (CNN). 
 
-##Requirements
+## Requirements
 - tensorflow 1.0  https://www.tensorflow.org 
 - opencv 3 http://opencv.org   
 If you are new, I strongly recoomend [Anaconda](https://www.continuum.io/downloads) and then install tensorflow and opencv.
@@ -13,19 +13,19 @@ conda uninstall -c menpo opencv #in case you have opnecv2
 conda install -c menpo opencv3
 ```
 
-##Citation
+## Citation
 If you find this tool useful, please consider to cite: 
 ```
 @article {...}
 ```
 
-##Another requirement: pretrained model
+## Another requirement: pretrained model
 Let's donwload the pretrained model at the `./data` directory. I uploaded onto multiple places.  
 Google Drive: [https://drive.google.com/open?id=0B046sNk0DhCDems2am5YV3NLeDQ](https://drive.google.com/open?id=0B046sNk0DhCDems2am5YV3NLeDQ)  
 Dropbox: [https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submitted-544.pb?dl=0](https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submitted-544.pb?dl=0)
 
 
-##I just want to separate compound figures. 
+## I just want to separate compound figures. 
 Sure, just use this command:
 ```
 python main.py --images ./imgs --annotate 1
@@ -54,7 +54,7 @@ Here is other options:
 ] 
 ```
 
-##I want to use inside my own code
+## I want to use inside my own code
 Sure. You can use `FigureSeparator` class. See `simple_example.py` which is:
 ```
 from code.FigureSeparator import FigureSeparator
@@ -64,6 +64,5 @@ print(sub_figures)
 ```
 Giving you the bounding box of sub-figures with confidence values. 
 
-##Acknowledgements
-
+## Acknowledgements
 The training is done by [darknet](https://github.com/pjreddie/darknet) and then ported to tensorflow model using [darkflow](https://github.com/thtrieu/darkflow). Part of the code is re-used from darkflow. Thank you very much for the authors of these two repositories. 
