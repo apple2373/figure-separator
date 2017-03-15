@@ -65,4 +65,5 @@ print(sub_figures)
 Giving you the bounding box of sub-figures with confidence values. 
 
 ##Acknowledgements
+
 The training is done by [darknet](https://github.com/pjreddie/darknet) and then ported to tensorflow model using [darkflow](https://github.com/thtrieu/darkflow). Part of the code is re-used from darkflow. Thank you very much for the authors of these two repositories. 
