@@ -16,7 +16,12 @@ conda install -c menpo opencv3
 ## Citation
 If you find this tool useful, please consider to cite: 
 ```
-@article {...}
+@article{figure-separator,
+  title={{A Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks}},
+  author={Satoshi Tsutsui, David Crandall},
+  journal={arXiv:1703.05105},
+  year={2017}
+}
 ```
 
 ## Another requirement: pretrained model
