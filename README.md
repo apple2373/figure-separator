@@ -18,7 +18,7 @@ If you find this tool useful, please consider to cite:
 ```
 @inproceedings{figure-separate,
   title={{A Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks}},
-  author={Satoshi Tsutsui, David Crandall},
+  author={Satoshi Tsutsui, and David Crandall},
   booktitle={{The IAPR International Conference on Document Analysis and Recognition (ICDAR)}},
   year={2017}
 }
