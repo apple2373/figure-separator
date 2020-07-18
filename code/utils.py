@@ -13,8 +13,8 @@ import numpy as np
 import math
 import cv2
 import os
-from box import BoundBox, box_iou, prob_compare
-from box import prob_compare2, box_intersection
+from code.box import BoundBox, box_iou, prob_compare
+from code.box import prob_compare2, box_intersection
 import argparse
 
 def expit(x):
