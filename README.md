@@ -26,8 +26,8 @@ If you find this tool useful, please consider to cite:
 
 ## Another requirement: pretrained model
 Let's donwload the pretrained model at the `./data` directory. I uploaded onto multiple places.  
-Hugging Face: [https://huggingface.co/apple2373/figure-separation-model-submitted-544](https://huggingface.co/apple2373/figure-separation-model-submitted-544)
-Dropbox: [https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submitted-544.pb?dl=0](https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submitted-544.pb?dl=0)
+- Hugging Face: [https://huggingface.co/apple2373/figure-sepration-model-submitted-544/blob/main/figure-sepration-model-submitted-544.pb]([https://huggingface.co/apple2373/figure-separation-model-submitted-544](https://huggingface.co/apple2373/figure-sepration-model-submitted-544/blob/main/figure-sepration-model-submitted-544.pb)
+- Dropbox: [https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submitted-544.pb?dl=0](https://www.dropbox.com/s/xug7uw1rrq7ljy0/figure-sepration-model-submitted-544.pb?dl=0)
 
 
 ## I just want to separate compound figures. 
